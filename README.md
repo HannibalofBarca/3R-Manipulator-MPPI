@@ -1,6 +1,7 @@
 # ROB6323---3R-Manipulator-MPPI-Controller
 
 This module contains an Ipython implementation of an MPPI position controller for a 3R Planar Manipulator.
+
 Target end-effector position: (2, 1)
 
 
