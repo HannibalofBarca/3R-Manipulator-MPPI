@@ -1,6 +1,6 @@
 # ROB6323---3R-Manipulator-MPPI-Controller
 
-This module contains an Ipython implementation of an MPPI position controller for a 3R Planar Manipulator.  
+This project implements a Model Predictive Path Integral (MPPI) algorithm to control a 3-degree-of-freedom robotic manipulator. The objective is to smoothly guide the manipulator's tip to specified target positions in a simulated environment.
 
 Target end-effector position: (1, -2)
 
